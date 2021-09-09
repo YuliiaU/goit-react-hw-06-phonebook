@@ -1,0 +1,10 @@
+.Container {
+  width: 1170px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  background-size: cover;
+}
